@@ -2,8 +2,6 @@
 
 #### Xray kernel，support vless，vmess，trojan，shadowsocks，socks 
 
-####(https://ygkkk.blogspot.com/2023/01/doprax-xray-v2ray-cdn.html)
-
 -----------------------
 
 #### The following variables can be added as required
